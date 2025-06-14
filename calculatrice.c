@@ -8,7 +8,10 @@
 //fonction soustraction par saliou
 
 
-//fonction division par Djiby 
+//fonction division par Djiby
+float division(float a, float b) { 
+    return a / b;
+}
 
 
 //fonction multiplication par Aida
