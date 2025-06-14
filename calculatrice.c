@@ -19,8 +19,7 @@ float division(float a, float b) {
 
 //fonction multiplication par Aida
 #include<stdio.h>
-main() {
-    
+
 float n1, n2, resultat,multiplication;
 printf("Entrez le premier n1: ");
 scanf("%f", &n1);
@@ -29,6 +28,6 @@ scanf("%f", &n2);
 resultat = n1 * n2;
 printf("Le resultat de la multiplication est: %.2f\n", resultat);
 return 0;
-}
+
 
 //méthode main par cynthia
